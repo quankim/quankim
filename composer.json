@@ -1,6 +1,6 @@
 {
-    "name": "cakephp/app",
-    "description": "CakePHP skeleton app",
+    "name": "quankim/cakephp-test",
+    "description": "CakePHP skeleton app by Quan Kim",
     "homepage": "http://cakephp.org",
     "type": "project",
     "license": "MIT",
